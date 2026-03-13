@@ -1,7 +1,7 @@
 const Button = ({ text, className }) => {
   return (
     <button
-      className={`bg-[linear-gradient(to_bottom,rgb(181,179,202)_0%,rgb(7,5,38)_90%)] text-white px-6 py-[15px] rounded-xl ${className} hover:shadow-lg transition-shadow duration-300 ease-in-out`}
+      className={`bg-[#070526] hover:bg-[#B5B3CA]  text-white px-6 py-3.75 rounded-xl ${className} transition-all duration-300 ease-linear transform`}
     >
       {text}
     </button>
