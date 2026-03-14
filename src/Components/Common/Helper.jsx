@@ -9,6 +9,10 @@ import banasaree from "../../assets/Images/banasaree.png";
 import khilgaon from "../../assets/Images/khilgaon.png";
 import rampura from "../../assets/Images/rampura.png";
 import purbachal from "../../assets/Images/purbachal.png";
+import house1 from "../../assets/Images/house1.png";
+import house2 from "../../assets/Images/house2.png";
+import house3 from "../../assets/Images/house3.png";
+import house4 from "../../assets/Images/house4.png";
 import { Box, City, Hand, Runner } from "./Icons";
 
 export const Navlist = [
@@ -57,4 +61,16 @@ export const Gallerylist = [
   { img: khilgaon, name: "Khilgaon" },
   { img: rampura, name: "Rampura" },
   { img: purbachal, name: "Purbachal" },
+];
+
+export const Houselist = [
+  { img: house1, name: "For sale" },
+  { img: house2, name: "For sale" },
+  { img: house3, name: "For sale" },
+  { img: house4, name: "For sale" },
+  { img: house1, name: "For sale" },
+  { img: house2, name: "For sale" },
+  { img: house3, name: "For sale" },
+  { img: house4, name: "For sale" },
+
 ];

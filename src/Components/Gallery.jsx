@@ -3,20 +3,23 @@ import { Gallerylist } from "./Common/Helper";
 
 const Gallery = () => {
   return (
-    <section className="mb-27.5 px-5 xl:px-0">
-      <div className="flex flex-col md:flex-row max-w-300 justify-between mx-auto items-center mb-10">
-        <div className="max-w-116">
-          <h2 className="text-[44px] leading-[130%] w-full font-manrope font-extrabold">
+    <section className="mb-10 lg:mb-27.5 px-5 xl:px-0">
+      <div className="flex flex-col md:flex-row max-w-300 justify-between mx-auto gap-4 md:gap-6 items-center mb-10">
+        <div className="w-full md:max-w-116 text-center md:text-start">
+          <h2 className="text-[24px] sm:text-[28px] md:text-[36px] lg:text-[44px]  w-full font-manrope font-extrabold">
             Find Properties in the Areas You Love
           </h2>
         </div>
-        <div className="max-w-96.5 w-full ">
-          <p className="mb-5.5 text-center md:text-start">
+        <div className="w-full md:max-w-96.5">
+          <p className="mb-2.5 md:mb-5.5 text-center md:text-start">
             Explore properties by neighbourhood. Select an area to view
             available homes, apartments, buildings, and land for buying,
             selling, or renting.
           </p>
-          <Button text={"View Properties"} />
+          <Button
+            className="flex justify-center mx-auto md:mx-0"
+            text={"View Properties"}
+          />
         </div>
       </div>
       <div className="flex flex-wrap justify-center gap-6 max-w-300 mx-auto">

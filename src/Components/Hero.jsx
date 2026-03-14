@@ -33,10 +33,10 @@ const Hero = () => {
   return (
     <section className="mb-10 lg:mb-27.5 ">
       <div
-        className="mt-8 bg-cover object-cover max-w-300 rounded-3xl bg-center mx-auto h-80 sm:h-100 md:h-117.5"
+        className="mt-8 bg-cover object-cover max-w-300 rounded-none lg:rounded-3xl bg-center mx-auto h-80 sm:h-100 md:h-117.5"
         style={{ backgroundImage: `url(${heroimg})` }}
       >
-        <div className="bg-[#15151599] py-6 w-full h-full flex flex-col justify-center rounded-3xl px-5 lg:px-0">
+        <div className="bg-[#15151599] py-6 w-full h-full flex flex-col justify-center rounded-none lg:rounded-3xl px-5 lg:px-0">
           <h1 className="font-bold leading-[120%] text-[30px] sm:text-[32px] md:text-[38px] lg:text-[50px] text-white max-w-243.25 mx-auto text-center">
             Looking to Buy, Sell, or Rent a Property? Find Your Dream Home With
             Us!

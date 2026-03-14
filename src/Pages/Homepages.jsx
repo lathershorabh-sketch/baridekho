@@ -1,6 +1,7 @@
 import Gallery from "../Components/Gallery";
 import Hero from "../Components/Hero";
 import Navbar from "../Components/Navbar";
+import Swiper from "../Components/Swiper";
 
 const Homepages = () => {
   return (
@@ -8,6 +9,7 @@ const Homepages = () => {
       <Navbar />
       <Hero />
       <Gallery />
+      <Swiper/>
     </section>
   );
 };
