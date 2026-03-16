@@ -1,18 +1,18 @@
-import indiaflag from "../../assets/Images/indiaflag.png";
-import germanyflag from "../../assets/Images/germanyflag.png";
-import Uk from "../../assets/Images/uk.png";
 import banani from "../../assets/Images/banani.png";
-import baridhara from "../../assets/Images/baridhara.png";
-import niketan from "../../assets/Images/niketan.png";
-import mohammadpur from "../../assets/Images/mohammadpur.png";
 import banasaree from "../../assets/Images/banasaree.png";
-import khilgaon from "../../assets/Images/khilgaon.png";
-import rampura from "../../assets/Images/rampura.png";
-import purbachal from "../../assets/Images/purbachal.png";
+import baridhara from "../../assets/Images/baridhara.png";
+import germanyflag from "../../assets/Images/germanyflag.png";
 import house1 from "../../assets/Images/house1.png";
 import house2 from "../../assets/Images/house2.png";
 import house3 from "../../assets/Images/house3.png";
 import house4 from "../../assets/Images/house4.png";
+import indiaflag from "../../assets/Images/indiaflag.png";
+import khilgaon from "../../assets/Images/khilgaon.png";
+import mohammadpur from "../../assets/Images/mohammadpur.png";
+import niketan from "../../assets/Images/niketan.png";
+import purbachal from "../../assets/Images/purbachal.png";
+import rampura from "../../assets/Images/rampura.png";
+import Uk from "../../assets/Images/uk.png";
 import { Box, City, Hand, Runner } from "./Icons";
 
 export const Navlist = [
@@ -53,7 +53,10 @@ const fields = [
 ];
 
 export const Gallerylist = [
-  { img: banani, name: "Banani" },
+  {
+    img: banani,
+    name: "Banani",
+  },
   { img: baridhara, name: "Baridhara" },
   { img: niketan, name: "Niketan" },
   { img: mohammadpur, name: "Mohammadpur" },
@@ -64,13 +67,87 @@ export const Gallerylist = [
 ];
 
 export const Houselist = [
-  { img: house1, name: "For sale" },
-  { img: house2, name: "For sale" },
-  { img: house3, name: "For sale" },
-  { img: house4, name: "For sale" },
-  { img: house1, name: "For sale" },
-  { img: house2, name: "For sale" },
-  { img: house3, name: "For sale" },
-  { img: house4, name: "For sale" },
+  {
+    img: house1,
+    tag: "For Sale",
+    title: "Dhaka Neighborhoods: Gulshan, Banani & Dhanmondi",
+    description:
+      "A stunning 4-bedroom 3 bathroom villa in a peaceful suburban neighborhood.",
 
+    features: {
+      bedroom: 4,
+      villa: 1,
+      bathroom: 3,
+      pool: 1,
+      breakfast: true,
+    },
+
+    duration: "1 Year",
+    price: "$754,250.00",
+  },
+  {
+    img: house2,
+    tag: "For Sale",
+    title: "Dhaka Neighborhoods: Gulshan, Banani & Dhanmondi",
+    description:
+      "A stunning 4-bedroom 3 bathroom villa in a peaceful suburban neighborhood.",
+
+    features: {
+      bedroom: 5,
+      villa: 1,
+      bathroom: 4,
+      pool: 1,
+      breakfast: true,
+    },
+
+    duration: "1 Year",
+    price: "$820,000.00",
+  },
+  {
+    img: house3,
+    tag: "For Sale",
+    title: "Dhaka Neighborhoods: Gulshan, Banani & Dhanmondi",
+    description:
+      "A stunning 4-bedroom 3 bathroom villa in a peaceful suburban neighborhood.",
+
+    features: {
+      bedroom: 3,
+      villa: 1,
+      bathroom: 2,
+      pool: 1,
+      breakfast: false,
+    },
+
+    duration: "1 Year",
+    price: "$640,000.00",
+  },
+  {
+    img: house4,
+    tag: "For Sale",
+    title: "Dhaka Neighborhoods: Gulshan, Banani & Dhanmondi",
+    description:
+      "A stunning 4-bedroom 3 bathroom villa in a peaceful suburban neighborhood.",
+
+    features: {
+      bedroom: 4,
+      villa: 1,
+      bathroom: 3,
+      pool: 1,
+      breakfast: true,
+    },
+
+    duration: "1 Year",
+    price: "$900,000.00",
+  },
 ];
+
+export const Useful = [
+  "About Us",
+  "Sell Your property",
+  "Services",
+  "Buy Property",
+  "Contact Us",
+]
+
+
+
