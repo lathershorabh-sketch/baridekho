@@ -2,7 +2,7 @@ import handshake from "../assets/Images/handshake.png";
 import Button from "./Button";
 const Post = () => {
   return (
-    <section className="max-w-300 w-full flex justify-between items-center mx-auto mb-27.5 bg-[#DBDAE6] rounded-2xl gap-3 sm:gap-0">
+    <section className="max-w-300 w-full flex justify-between items-center mx-auto mb-10 lg:mb-27.5 bg-[#DBDAE6] rounded-2xl gap-3 sm:gap-0">
       <div className="flex items-center justify-between ">
         <div>
           <img

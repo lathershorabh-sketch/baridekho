@@ -5,7 +5,7 @@ import Navbar from "../Components/Navbar";
 import Post from "../Components/Post";
 import Swiper from "../Components/Swiper";
 
-const Homepages = () => {
+const Homepage = () => {
   return (
     <section>
       <Navbar />
@@ -18,4 +18,4 @@ const Homepages = () => {
   );
 };
 
-export default Homepages;
+export default Homepage;

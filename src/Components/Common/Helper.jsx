@@ -150,4 +150,13 @@ export const Useful = [
 ]
 
 
+export const FotterList = [
+  "The information provided on this website is for informational purposes only and does not constitute financial, investment, or legal advice. Nothing on this site should be construed as an offer to sell or a solicitation to purchase any securities or financial products.",
+  "Past performance is not indicative of future results. Investments in financial markets, cryptocurrencies, and real estate carry risks, including the potential loss of principal. Before making any investment decisions, consult with a qualified financial advisor or conduct your own independent research.",
+  "All content on this website is confidential and may not be reproduced, distributed, or shared without prior written consent from Chaudhary Capital Management LLC. By accessing this site, you agree to these terms.",
+]
+
+
+
+
 

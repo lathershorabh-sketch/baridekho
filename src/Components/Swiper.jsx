@@ -19,7 +19,7 @@ const HouseSwiper = () => {
           confidence and peace of mind.
         </p>
       </div>
-      <div className="max-w-300 mx-auto relative px-5 mb-3 lg:mb-12">
+      <div className="max-w-300 mx-auto relative px-5 mb-0 lg:mb-12">
         <Swiper
           modules={[Autoplay, Navigation]}
           spaceBetween={20}
