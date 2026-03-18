@@ -46,9 +46,7 @@ export default function PropertyTestPage() {
 
   const [cityFilter, setCityFilter] = useState("");
 
-  const filteredData = properties.filter(
-    (item) => cityFilter === "" || item.city === cityFilter,
-  );
+  const filteredData = properties.filter((item) => cityFilter === "" || item.city === cityFilter,);
 
   return (
     <div className="min-h-screen bg-gray-100 p-10">

@@ -675,3 +675,62 @@ export const Google = ({className}) => {
     </svg>
   );
 };
+
+
+export const LiningPicture = () => {
+  return (
+    <svg width="352" height="95" viewBox="0 0 352 95" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="16" y="58" width="6" height="30" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="184" y="58" width="6" height="30" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="100" y="51" width="6" height="37" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="268" y="51" width="6" height="37" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="317" y="51" width="6" height="37" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="58" y="41" width="6" height="47" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="226" y="41" width="6" height="47" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="142" y="30" width="6" height="58" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="310" y="30" width="6" height="58" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="37" y="58" width="6" height="30" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="205" y="58" width="6" height="30" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="121" y="51" width="6" height="37" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="289" y="51" width="6" height="37" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="79" y="41" width="6" height="47" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="247" y="41" width="6" height="47" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="163" y="30" width="6" height="58" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="23" y="43" width="6" height="45" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="191" y="43" width="6" height="45" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="107" y="32" width="6" height="56" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="275" y="32" width="6" height="56" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="324" y="32" width="6" height="56" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="65" y="17" width="6" height="71" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="233" y="17" width="6" height="71" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="149" width="6" height="88" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="44" y="37" width="6" height="51" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="212" y="37" width="6" height="51" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="128" y="25" width="6" height="63" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="296" y="25" width="6" height="63" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="86" y="17" width="6" height="71" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="254" y="17" width="6" height="71" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="170" width="6" height="88" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="30" y="51" width="6" height="37" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="198" y="51" width="6" height="37" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="114" y="42" width="6" height="46" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="282" y="42" width="6" height="46" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="331" y="42" width="6" height="46" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="72" y="30" width="6" height="58" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="240" y="30" width="6" height="58" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="156" y="16" width="6" height="72" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="51" y="51" width="6" height="37" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="219" y="51" width="6" height="37" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="135" y="42" width="6" height="46" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="303" y="42" width="6" height="46" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="93" y="30" width="6" height="58" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="261" y="30" width="6" height="58" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect x="177" y="16" width="6" height="72" rx="3" fill="#898989" fill-opacity="0.16"/>
+<rect y="84" width="352" height="5" rx="2.5" fill="#070526"/>
+<rect y="78" width="17" height="17" rx="8.5" fill="#070526"/>
+<rect x="335" y="78" width="17" height="17" rx="8.5" fill="#070526"/>
+</svg>
+
+  )
+}
+

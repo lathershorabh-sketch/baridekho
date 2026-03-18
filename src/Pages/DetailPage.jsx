@@ -1,3 +1,4 @@
+import DetailPageSwiper from "../Components/DetailPageSwiper";
 import Footer from "../Components/Footer";
 import Hero from "../Components/Hero";
 import Navbar from "../Components/Navbar";
@@ -8,6 +9,7 @@ const DetailPage = () => {
     <section>
       <Navbar />
       <Hero />
+      <DetailPageSwiper/>
       <Post />
       <Footer />
     </section>
